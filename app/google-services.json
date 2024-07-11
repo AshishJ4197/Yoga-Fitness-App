@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990598148347",
+    "project_id": "yoga-fitness-app-b0c40",
+    "storage_bucket": "yoga-fitness-app-b0c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990598148347:android:102637baa562ac9790405e",
+        "android_client_info": {
+          "package_name": "com.example.yogafitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoZQcSoe-yuiP0BbABfTDV9vBjDn5UDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,210 @@
+<resources>
+    <string name="app_name">Yoga Fitness</string>
+    <string name="back_button_description">Button for Back Arrow</string>
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">    Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action. </string>
+
+    <string-array name="title_story">
+        <item>Importance of a Balanced Diet</item>
+        <item>Benefits of Regular Hydration</item>
+        <item>Incorporating Fruits and Vegetables</item>
+        <item>Choosing Whole Grains</item>
+        <item>Protein Sources and Benefits</item>
+        <item>Healthy Fats</item>
+        <item>Minimizing Sugar Intake</item>
+        <item>Portion Control</item>
+        <item>Regular Physical Activity</item>
+        <item>Importance of Sleep</item>
+    </string-array>
+
+    <string-array name="details_story">
+    <item>
+        A balanced diet is crucial for maintaining overall health and well-being. It provides the body with essential nutrients needed for energy, growth, and repair.\n\n
+        -> Ensures adequate intake of vitamins and minerals necessary for various bodily functions, including metabolism and immune system support.\n\n
+        -> Supports immune system function by enhancing the production of antibodies and maintaining cellular health.\n\n
+        -> Helps maintain a healthy weight by regulating appetite and promoting optimal digestion.\n\n
+        -> Provides essential nutrients for energy production, growth, and repair of tissues and organs.\n\n
+        -> Supports cardiovascular health by helping regulate cholesterol levels and blood pressure.\n\n
+        -> Enhances mental clarity and cognitive function through the provision of vital nutrients for brain health.\n\n
+        -> Promotes longevity and overall well-being by reducing the risk of chronic diseases and supporting cellular regeneration.\n\n
+    </item>
+
+        <item>
+        Staying hydrated is vital for various bodily functions, including digestion, temperature regulation, and detoxification processes.\n\n
+        -> Aids in digestion and nutrient absorption by facilitating the movement of food through the digestive tract.\n\n
+        -> Prevents dehydration and its associated symptoms, such as headaches, fatigue, and impaired cognitive function.\n\n
+        -> Enhances physical performance by maintaining optimal fluid balance in muscles and joints.\n\n
+        -> Supports cognitive function and mental clarity by ensuring adequate hydration of brain tissues.\n\n
+        -> Promotes skin health and elasticity by maintaining proper hydration levels.\n\n
+        -> Facilitates detoxification processes by flushing out metabolic wastes and toxins from the body.\n\n
+        -> Enhances immune system function by supporting lymphatic circulation and immune cell activity.
+    </item>
+
+        <item>
+        Fruits and vegetables are rich in essential nutrients, fiber, and antioxidants that play a crucial role in maintaining overall health and preventing chronic diseases.\n\n
+        -> Helps reduce the risk of chronic diseases such as heart disease, diabetes, and certain cancers.\n\n
+        -> Provides dietary fiber for digestive health, promoting regular bowel movements and preventing constipation.\n\n
+        -> Supplies antioxidants that protect against oxidative stress and free radical damage, thereby supporting cellular health.\n\n
+        -> Enhances immune system function by providing vitamins and minerals essential for immune cell production and activity.\n\n
+        -> Promotes cardiovascular health by lowering cholesterol levels and supporting healthy blood pressure.\n\n
+        -> Supports skin health and appearance by providing nutrients that promote collagen synthesis and skin regeneration.\n\n
+        -> Aids in weight management by promoting satiety and reducing calorie intake when consumed as part of a balanced diet.
+    </item>
+
+        <item>
+        Whole grains are a key component of a healthy diet and offer numerous health benefits.\n\n
+        -> Provides essential nutrients like fiber, B vitamins, and minerals such as magnesium and iron.\n\n
+        -> Helps maintain healthy digestion by promoting regular bowel movements and supporting gut health.\n\n
+        -> Supports stable blood sugar levels by providing complex carbohydrates that release energy slowly.\n\n
+        -> Enhances cardiovascular health by reducing the risk of heart disease and stroke.\n\n
+        -> Promotes satiety and helps control appetite, aiding in weight management.\n\n
+        -> Provides sustained energy levels for physical activity and mental focus.\n\n
+        -> Supports overall well-being by supplying nutrients that contribute to immune function and overall health.
+    </item>
+
+        <item>
+        Protein is essential for muscle repair, immune function, and overall growth.\n\n
+        -> Supports muscle repair and growth through the synthesis of muscle tissue and the regulation of muscle contraction.\n\n
+        -> Aids in hormone production, including insulin and growth hormones that regulate metabolism and cellular repair.\n\n
+        -> Enhances immune system function by producing antibodies and enzymes that defend against infections.\n\n
+        -> Supports cardiovascular health by helping to regulate blood pressure and cholesterol levels.\n\n
+        -> Promotes satiety and helps control appetite, contributing to weight management.\n\n
+        -> Provides essential amino acids that the body cannot produce on its own, supporting overall health.\n\n
+        -> Supports cognitive function and mental clarity by providing neurotransmitters essential for brain health.
+    </item>
+
+        <item>
+        Healthy fats are important for brain health, hormone regulation, and overall well-being.\n\n
+        -> Supports brain health by providing essential fatty acids that promote nerve function and neurotransmitter production.\n\n
+        -> Aids in nutrient absorption by enhancing the bioavailability of fat-soluble vitamins such as vitamin A, D, E, and K.\n\n
+        -> Helps regulate hormones involved in metabolism, mood, and reproductive health.\n\n
+        -> Supports cardiovascular health by reducing inflammation and improving cholesterol levels.\n\n
+        -> Promotes skin health and appearance by maintaining moisture and elasticity.\n\n
+        -> Provides sustained energy by serving as a concentrated source of calories.\n\n
+        -> Supports immune system function by reducing inflammation and supporting immune cell activity.
+    </item>
+
+        <item>
+        Reducing sugar intake can improve overall health and reduce the risk of chronic diseases.\n\n
+        -> Helps prevent weight gain and obesity by reducing calorie intake and promoting satiety.\n\n
+        -> Reduces the risk of type 2 diabetes by preventing insulin resistance and regulating blood sugar levels.\n\n
+        -> Improves dental health by reducing the risk of cavities and gum disease.\n\n
+        -> Supports cardiovascular health by lowering triglyceride levels and reducing inflammation.\n\n
+        -> Enhances mental clarity and cognitive function by stabilizing blood sugar levels.\n\n
+        -> Promotes skin health by preventing glycation, which can lead to premature aging.\n\n
+        -> Supports overall well-being by reducing inflammation and oxidative stress in the body.
+    </item>
+
+        <item>
+        Portion control helps manage calorie intake and supports weight management.\n\n
+        -> Prevents overeating by promoting awareness of portion sizes and calorie content.\n\n
+        -> Helps manage weight by balancing energy intake and expenditure.\n\n
+        -> Encourages mindful eating by focusing on hunger cues and satiety.\n\n
+        -> Supports digestive health by preventing discomfort and promoting efficient nutrient absorption.\n\n
+        -> Promotes sustainable eating habits by fostering a balanced approach to food consumption.\n\n
+        -> Enhances overall well-being by supporting physical health and mental clarity.\n\n
+        -> Supports metabolic function by regulating insulin sensitivity and energy metabolism.
+    </item>
+
+        <item>
+        Regular physical activity is essential for overall health and well-being.\n\n
+        -> Improves cardiovascular health by strengthening the heart muscle and improving circulation.\n\n
+        -> Supports mental health by reducing stress, anxiety, and depression.\n\n
+        -> Enhances physical fitness and endurance by increasing muscle strength and flexibility.\n\n
+        -> Promotes weight management by burning calories and increasing metabolism.\n\n
+        -> Supports immune system function by promoting circulation and lymphatic drainage.\n\n
+        -> Enhances mood and cognitive function by releasing endorphins and improving brain function.\n\n
+        -> Supports longevity and quality of life by reducing the risk of chronic diseases and promoting overall well-being.
+    </item>
+
+        <item>
+        Adequate sleep is crucial for physical and mental health.\n\n
+        -> Supports cognitive function and memory consolidation by facilitating neural connections.\n\n
+        -> Helps regulate mood and emotional stability by balancing neurotransmitter levels.\n\n
+        -> Aids in physical recovery and repair of tissues and muscles.\n\n
+        -> Promotes immune system function by regulating cytokine production and immune cell activity.\n\n
+        -> Enhances cardiovascular health by reducing blood pressure and improving heart rate variability.\n\n
+        -> Supports metabolic function by regulating hormones that control appetite and energy expenditure.\n\n
+        -> Improves overall well-being by reducing inflammation and oxidative stress in the body.
+    </item>
+    </string-array>
+
+
+    <string name="privacy_policy_text">
+        We value your privacy and are committed to protecting your personal information. This Yoga Fitness app is designed to provide you with yoga routines and fitness tips without requiring any personal data collection.\n\n
+        1. Data Collection: We do not collect any personal information such as your name, email address, or location.\n\n
+        2. Usage Data: The app may collect non-personal data regarding app usage to help improve the user experience. This data is anonymous and cannot be used to identify you.\n\n
+        3. Data Security: We implement appropriate security measures to protect your data from unauthorized access, alteration, or destruction.\n\n
+        4. Third-Party Services: We do not share your data with any third-party services or organizations. The app operates independently without external data sharing.\n\n
+        5. User Consent: By using the Yoga Fitness app, you consent to our privacy policy. If you do not agree with any part of this policy, please discontinue use of the app.\n\n
+        6. Changes to Policy: We may update this privacy policy periodically. We encourage you to review it regularly to stay informed about any changes.\n\n
+        For any questions or concerns regarding this privacy policy, please contact us at support@yogafitness.com.
+    </string>
+
+    <string name="terms_text">
+        Your terms and conditions text goes here. Provide detailed information about the rules and regulations for using your app, including user responsibilities and legal disclaimers.\n\n
+        1. Acceptance of Terms: By using our app, you agree to comply with and be bound by these terms.\n\n
+        2. User Responsibilities: Users must ensure that their use of the app complies with all applicable laws and regulations.\n\n
+        3. Limitation of Liability: We are not responsible for any damages resulting from the use of the app.\n\n
+        4. Modifications to Terms: We may update these terms from time to time. Continued use of the app constitutes acceptance of the new terms.\n\n
+        5. Contact Information: If you have any questions or concerns about these terms, please contact us at support@yogafitness.com.
+    </string>
+
+
+
+
+</resources>

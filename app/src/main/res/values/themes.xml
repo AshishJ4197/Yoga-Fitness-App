@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YogaFitness" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Theme.YogaFitness" parent="Base.Theme.YogaFitness" />
+</resources>
